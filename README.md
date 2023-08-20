@@ -3,7 +3,7 @@ Explicación simple de un hash y un ejemplo sencillo en python
 
 # TITULO: Calculo de Hash
 
-Motivo: Anteriormente habia escuchado el termino de hash sin embargo no sabia que existian distintos algoritmos para calcularlos y las distintas caracteristicas que poseen cada uno de ellos. Es un tema que me intereso investigue varias fuentes y desarrolle un programa que calcule 
+Motivo: Anteriormente habia escuchado el termino de hash sin embargo no sabia que existian distintos algoritmos para calcularlos y las distintas caracteristicas que poseen cada uno de ellos. Es un tema que me intereso investigue varias fuentes y desarrolle un programa simple como ejemplo.
 
 Objetivo: A continuación se hará una breve introdución al tema de hash, explicaré los principales y también sus caracteristicas. Luego pretendo hacer un ejemplo en código python de como calcular un hash usando el algoritmo SHA-256.
 
